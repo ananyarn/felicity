@@ -12,7 +12,7 @@ Welcome to **Felicity**, a personal collection of clear and concise notes on **D
 ---
 
 ## 🧠 Topics Covered
-1. Arrays
+1. [Arrays](./Arrays/arrays.md)
 
 ## 📝 Note Format
 
