@@ -2,6 +2,8 @@
 
 Welcome to **Felicity**, a personal collection of clear and concise notes on **Data Structures and Algorithms (DSA)**. This repo is my knowledge base for revising concepts, learning patterns, and preparing for coding interviews.
 
+The language that I focus on is Python.
+
 📌 This is not a solution bank — it's focused on **understanding over memorizing**. You'll find:
 
 - 📘 Clean, structured notes
@@ -12,13 +14,11 @@ Welcome to **Felicity**, a personal collection of clear and concise notes on **D
 ---
 
 ## 🧠 Topics Covered
+**Data Structures**
 1. [Arrays](./Arrays/arrays.md)
 
-## 📝 Note Format
+**Concepts**
 
-Each note typically includes:
-- Concept explanations
-- Bullet points for quick recall
-- Key algorithms
-- Mini code snippets (only if essential)
-- Time and space complexity
+**Algorithms**
+1. [Linear Search](./Arrays/linearsearch.py)
+2. [Binary Search](./Arrays/binarysearch.py)
