@@ -3,6 +3,7 @@
 Welcome to **Felicity**, a personal collection of clear and concise notes on **Data Structures and Algorithms (DSA)**. This repo is my knowledge base for revising concepts, learning patterns, and preparing for coding interviews.
 
 The language that I focus on is Python.
+[Python Basics](/Python%20Basics/)
 
 📌 This is not a solution bank — it's focused on **understanding over memorizing**. You'll find:
 
