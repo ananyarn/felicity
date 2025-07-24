@@ -30,7 +30,10 @@ DIMENSION: 1D Arrays and Multidimensional Arrays (2D (Matrix), 3D, etc.)
 3. Serves as data buffers and queues. 
 4. Dynamic programming aklgorithms often use arrays to store intermediate results of subproblems. 
 
-Resources to read more on Arrays:
+**Resources to read more on Arrays**:
 1. [Introduction](https://www.geeksforgeeks.org/dsa/introduction-to-arrays-data-structure-and-algorithm-tutorials/)
 2. [Understanding Arrays](https://www.geeksforgeeks.org/dsa/applications-advantages-and-disadvantages-of-array-data-structure/)
 3. [Top 50 Coding Problems](https://www.geeksforgeeks.org/dsa/top-50-array-coding-problems-for-interviews/)
+
+**Videos**:
+1. [Arrays](https://www.youtube.com/watch?v=gDqQf4Ekr2A)
